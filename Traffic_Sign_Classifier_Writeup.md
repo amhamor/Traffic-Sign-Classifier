@@ -20,11 +20,11 @@ The goals / steps of this project are the following:
 [image7]: ./german-traffic-sign-test-images/priority-road-german-traffic-sign-resized.png "Priority Road German Traffic Sign"
 [image8]: ./german-traffic-sign-test-images/keep-left-german-traffic-sign-resized.png "Keep Left German Traffic Sign"
 [image9]: ./blurry_preprocessed_image.png "Blurry Preprocessed Image"
-[image10]: ./softmax-probabilities/road-narrows-on-the-right-german-traffic-sign.jpg "Road Narrows On the Right German Traffic Sign Softmax Probabilities"
-[image11]: ./softmax-probabilities/end-of-all-speed-and-passing-limits-german-traffic-sign.jpg "End of All Speed and Passing Limits German Traffic Sign Softmax Probabilities"
-[image12]: ./softmax-probabilities/slippery-road-german-traffic-sign.jpg "Snow-Covered Slippery Road German Traffic Sign Softmax Probabilities"
-[image13]: ./softmax-probabilities/priority-road-german-traffic-sign.jpg "Priority Road German Traffic Sign Softmax Probabilities"
-[image14]: ./softmax-probabilities/keep-left-german-traffic-sign.jpg "Keep Left German Traffic Sign Softmax Probabilities"
+[image10]: ./softmax-probabilities/road-narrows-on-the-right-german-traffic-sign-softmax-probabilities.jpg "Road Narrows On the Right German Traffic Sign Softmax Probabilities"
+[image11]: ./softmax-probabilities/end-of-all-speed-and-passing-limits-german-traffic-sign-softmax-probabilities.jpg "End of All Speed and Passing Limits German Traffic Sign Softmax Probabilities"
+[image12]: ./softmax-probabilities/slippery-road-german-traffic-sign-softmax-probabilities.jpg "Snow-Covered Slippery Road German Traffic Sign Softmax Probabilities"
+[image13]: ./softmax-probabilities/priority-road-german-traffic-sign-softmax-probabilities.jpg "Priority Road German Traffic Sign Softmax Probabilities"
+[image14]: ./softmax-probabilities/keep-left-german-traffic-sign-softmax-probabilities.jpg "Keep Left German Traffic Sign Softmax Probabilities"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how my implementation addresses each point.  
