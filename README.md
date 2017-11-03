@@ -198,8 +198,8 @@ LRN:0 (or first layer):
 
 LRN:1 (or second layer):
 
-!["LRN:1 Feature maps"][image16]
+!["LRN_1:0 Feature maps"][image16]
 
 LRN:2 (or third layer):
 
-!["LRN:2 Feature maps"][image17]
+!["LRN_2:0 Feature maps"][image17]
