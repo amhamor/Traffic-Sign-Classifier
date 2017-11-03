@@ -25,6 +25,9 @@ The goals / steps of this project are the following:
 [image12]: ./softmax-probabilities/slippery-road-german-traffic-sign-softmax-probabilities.jpg "Snow-Covered Slippery Road German Traffic Sign Softmax Probabilities"
 [image13]: ./softmax-probabilities/priority-road-german-traffic-sign-softmax-probabilities.jpg "Priority Road German Traffic Sign Softmax Probabilities"
 [image14]: ./softmax-probabilities/keep-left-german-traffic-sign-softmax-probabilities.jpg "Keep Left German Traffic Sign Softmax Probabilities"
+[image15]: ./feature_maps/feature_map_LRN:0.png "LRN:0 Feature maps"
+[image16]: ./feature_maps/feature_map_LRN:1.png "LRN:1 Feature maps"
+[image17]: ./feature_maps/feature_map_LRN:2.png "LRN:2 Feature maps"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how my implementation addresses each point.  
@@ -187,4 +190,16 @@ For almost all of the five chosen images to show for this writeup, the correct p
 ####1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
 In the first convolutional layer output, we can see that the model learns the outline shape of the German traffic sign. In the second and third layers, we see seemingly random black and white checkered patterns that could possibly be similar to utilizing bits to classify German traffic signs from images. I feel that the network is actually utilizing one or all of the layers to learn the colors that are associated with each German traffic sign classification, but appears to be random black and white checkered patterns due to the size of the features for each of the second and third layers.
 
+You can see the feature maps for the double-curve-first-to-left-german-traffic-sign.png image below:
 
+LRN:0 (or first layer):
+
+!["LRN:0 Feature maps"][image15]
+
+LRN:1 (or second layer):
+
+!["LRN:1 Feature maps"][image16]
+
+LRN:2 (or third layer):
+
+!["LRN:2 Feature maps"][image17]
