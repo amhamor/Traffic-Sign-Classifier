@@ -26,8 +26,8 @@ The goals / steps of this project are the following:
 [image13]: ./softmax-probabilities/priority-road-german-traffic-sign-softmax-probabilities.jpg "Priority Road German Traffic Sign Softmax Probabilities"
 [image14]: ./softmax-probabilities/keep-left-german-traffic-sign-softmax-probabilities.jpg "Keep Left German Traffic Sign Softmax Probabilities"
 [image15]: ./feature_maps/feature_map_LRN:0.png "LRN:0 Feature maps"
-[image16]: ./feature_maps/feature_map_LRN:1.png "LRN:1 Feature maps"
-[image17]: ./feature_maps/feature_map_LRN:2.png "LRN:2 Feature maps"
+[image16]: ./feature_maps/feature_map_LRN_1:0.png "LRN:1 Feature maps"
+[image17]: ./feature_maps/feature_map_LRN_2:0.png "LRN:2 Feature maps"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how my implementation addresses each point.  
