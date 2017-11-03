@@ -31,6 +31,7 @@ The goals / steps of this project are the following:
 
 ---
 ###Writeup / README
+
 I have created a German traffic sign classifier by training German traffic sign images on a convolution neural network. Preprocessing and structuring of this German traffic sign data into a convolution neural network can be viewed in the following Jupyter Notebook: [German Traffic Sign Classifier](https://github.com/amhamor/Traffic-Sign-Classifier/Traffic_Sign_Classifier.ipynb)
 
 ###Data Set Summary & Exploration
