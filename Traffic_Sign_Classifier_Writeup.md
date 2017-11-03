@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 [image6]: ./german-traffic-sign-test-images/slippery-road-german-traffic-sign.jpg "Snow-Covered Slippery Road German Traffic Sign"
 [image7]: ./german-traffic-sign-test-images/priority-road-german-traffic-sign.jpg "Priority Road German Traffic Sign"
 [image8]: ./german-traffic-sign-test-images/keep-left-german-traffic-sign.jpg "Keep Left German Traffic Sign"
-[image9]: ./blurry-preprocessed-image.png "Blurry Preprocessed Image"
+[image9]: ./blurry_preprocessed_image.png "Blurry Preprocessed Image"
 [image10]: ./softmax-probabilities/road-narrows-on-the-right-german-traffic-sign.jpg "Road Narrows On the Right German Traffic Sign Softmax Probabilities"
 [image11]: ./softmax-probabilities/end-of-all-speed-and-passing-limits-german-traffic-sign.jpg "End of All Speed and Passing Limits German Traffic Sign Softmax Probabilities"
 [image12]: ./softmax-probabilities/slippery-road-german-traffic-sign.jpg "Snow-Covered Slippery Road German Traffic Sign Softmax Probabilities"
